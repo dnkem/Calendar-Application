@@ -1,7 +1,4 @@
-Name: Danielle Nkem Ebende
-Student #: 101218592
-Course: COMP 2404 - Fall
-Assignment: #1
+Name: Danielle Nkem
 
 Program Description: 
     This program is a planner calendar application that stores events. There includes neat 
